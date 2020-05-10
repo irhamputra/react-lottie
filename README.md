@@ -20,6 +20,11 @@ a simple minimum of React component and custom React Hook for using Lottie files
 </a>
 </sup>
 
+## Roadmap
+
+- [ ] React Component
+- [x] React Hooks (useLottie)
+- [ ] Documentation
 
 ## Install
 
